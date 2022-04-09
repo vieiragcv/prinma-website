@@ -1,0 +1,30 @@
+A service-level agreement includes key components and details of the service to be provided. 
+As such, it is usually crafted by the service provider. 
+Customers, when meeting with vendors, state their requirements and include them in request for proposal (RFP) documents. 
+But as an agreement document, either customer or service provider can craft the SLA.
+
+An SLA has two important areas: 
+
+  Services: 
+  
+    List of services provided
+    List of services excluded
+    Service availability
+    Condition of level of service (or different levels for multiple services)
+    Duties and responsibilities of each party
+    Response time
+    Escalation procedures
+    Resolution time
+    Service credits, in case the provider fails to provide the agreed level of service
+  
+  Management:
+
+    Measurement standards and methods
+    Reporting process
+    Conflict resolution process
+    Indemnification clause
+    Other exclusions due to unforeseen events
+
+PMI EXAMPLE (SLA) required to provide PM services to PMI org: https://www.pmi.org/-/media/pmi/documents/public/pdf/governance/pmi-service-level-agreement.pdf
+ITS EXAMPLE (SLA) for PMs leading a client's project: https://it.nc.gov/media/46/open
+Univesity of IL (SLA) for providing training, assistance, and software as a PPMO: https://www.uillinois.edu/common/pages/DisplayFile.aspx?itemId=129133
