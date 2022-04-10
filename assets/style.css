@@ -1,10 +1,13 @@
 * {
   text-align: center;
-  background-color: black;
 }
 
 body {
   color: #04B32C;
+}
+
+.navbar {
+  background-color: black;
 }
 
 
